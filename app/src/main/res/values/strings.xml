@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">switch button</string>
+    <string name="Switch_Status">Switch Off</string>
+</resources>
